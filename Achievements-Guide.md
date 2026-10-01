@@ -1,4 +1,4 @@
-# HYPER-ACK — Main Game Achievements
+# HYPER ACK — Main Game Achievements
 
 ## Score milestones
 
